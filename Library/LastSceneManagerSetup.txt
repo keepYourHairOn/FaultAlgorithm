@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/faultAlgorithm/faultTerrain.unity
+  isLoaded: 1
+  isActive: 1

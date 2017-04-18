@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2B84F3D0-579A-5D0D-800E-8B454FD2587F}") = "FaultAlgorithm", "Assembly-CSharp.csproj", "{CFCF2D76-963F-FEF2-6C34-B811983AD37C}"
+EndProject
+Project("{2B84F3D0-579A-5D0D-800E-8B454FD2587F}") = "FaultAlgorithm", "Assembly-CSharp-Editor.csproj", "{EEF92F4A-8D2C-6C19-6E30-9AD379A3A295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCF2D76-963F-FEF2-6C34-B811983AD37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCF2D76-963F-FEF2-6C34-B811983AD37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCF2D76-963F-FEF2-6C34-B811983AD37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCF2D76-963F-FEF2-6C34-B811983AD37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF92F4A-8D2C-6C19-6E30-9AD379A3A295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF92F4A-8D2C-6C19-6E30-9AD379A3A295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF92F4A-8D2C-6C19-6E30-9AD379A3A295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF92F4A-8D2C-6C19-6E30-9AD379A3A295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
